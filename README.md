@@ -36,7 +36,7 @@ The goal of **Ellite Aroma** is to provide a digital storefront that reflects th
 ## Installation & Usage
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/ellite-aroma.git
+   git clone https://github.com//ellite-aroma.git
    ```
 2. **Navigate to the project directory:**
    ```bash
